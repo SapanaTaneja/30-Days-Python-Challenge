@@ -10,36 +10,22 @@ For this challenge, I chose to work with VS Code because it's user-friendly and 
 
 ✅ Tasks I completed on Day 1:
 
-Downloaded and installed the VS Code environment
+1. Downloaded and installed the VS Code environment
 
-Installed Python
+2. Installed Python
 
-Installed the Python extension in VS Code
+3.  the Python extension in VS Code
 
-Created a GitHub repository for documentation
+4. Created a GitHub repository for documentation
 
-I also revised the important Git commands like:
+5. I also revised the important Git commands like:
 
-clone
-
-add
-
-commit
-
-merge
-
-push
-
-pull
-
-pull request (PR)
+clone, add, commit ,merge, push, pull, pull request (PR)
 
 I refreshed my understanding of merging, managing conflicts, and forking a repository for version control and collaboration.
 
 Finally, I wrapped up the day by writing a simple one-line Python program:
 
-python
-Copy
-Edit
+
 print("Hello World, this is [Your Name]!")
 Feeling excited and ready for Day 2! 🚀👩‍💻
